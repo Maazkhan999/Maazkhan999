@@ -19,7 +19,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Maaz Yousuf</a></b>
+                <b><a target="_blank" href="portfolio-maaz.surge.sh">Maaz Yousuf</a></b>
         </samp>
 </h3>
 
@@ -28,13 +28,12 @@
   <samp>
     「 I am a full stack web application developer from <b>Pakistan</b> 」
     <br>
-    <br>
   </samp>
 </p>
 
 <p align="center">
 
- <a href="https://linkedin.com/in/MaazYousuf" target="_blank">
+ <a href="www.linkedin.com/in/maaz-yousuf-579559262" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  
@@ -47,7 +46,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: maazyousuf138@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/maazkhan999)
 
 </p>
