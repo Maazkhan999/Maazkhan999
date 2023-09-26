@@ -33,8 +33,8 @@
 
 <p align="center">
 
- <a href="www.linkedin.com/in/maaz-yousuf-579559262" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ <a href="www.linkedin.com/in/maaz-yousuf-579559262/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maaz"/>
  </a>
  
 
